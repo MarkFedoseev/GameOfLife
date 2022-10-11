@@ -1,0 +1,12 @@
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Menu.resources
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.GameScreen.resources
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.Cache
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.NewGameSettings.resources
+C:\Users\Mark\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
